@@ -20,7 +20,7 @@ The main objective of this analysis is to understand how casual riders and annua
 ### Files Included 📂:
 - **`case_study.ipynb`**: Jupyter Notebook containing the full analysis, including data cleaning, visualization, and insights.
 ### Tools Used 🛠️:
-- **Jupyter Notebook**: Used for creating and running the case studie, showcasing the data analysis and results in an interactive environment.
+- **Jupyter Notebook**: Used for creating and running the case study, showcasing the data analysis and results in an interactive environment.
 - **R**: Utilized for data manipulation in the case study written in R.
   
 ### Key Insights 💡:
